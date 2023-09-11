@@ -1,8 +1,8 @@
 
 [<img src="https://img.shields.io/badge/pytorch-282C34?logo=pytorch&logoColor=3776AB" alt="PyTorch" title="PyTorch" height="25" />][tech_tools_anchor]
-&nbsp;
+
 [<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="python" title="Python" height="25" />][tech_tools_anchor]
-&nbsp;
+
 [<img src="https://img.shields.io/badge/Sklearn-282C34?logo=scikitlearn&logoColor=F7931E" alt="sklearn" title="Sklearn" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="mysql" title="MySQL" height="25" />][tech_tools_anchor]
