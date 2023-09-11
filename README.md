@@ -33,7 +33,7 @@ Coding: Python (Pandas, Numpy, Matplotlib, Sklearn, catboost, xgboost, LightGBM 
 
 Theory: Statistical, Data analysis, ML algorithms (Gradient boosting, Random forest, Regressions, Clustering, Anomaly Detection, etc.), Sequential Neural Networks, Convolution Neural Networks, NLP, GAN, Attention Mechanism, RecSys
 
-| [<img src="https://img.shields.io/badge/pytorch-282C34?logo=pytorch&logoColor=3776AB" alt="PyTorch" title="PyTorch" height="25" />][tech_tools_anchor] | [<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="python" title="Python" height="25" />][tech_tools_anchor] | [<img src="https://img.shields.io/badge/Sklearn-282C34?logo=scikitlearn&logoColor=F7931E" alt="sklearn" title="Sklearn" height="25" />][tech_tools_anchor] | [<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="mysql" title="MySQL" height="25" />][tech_tools_anchor] | [<img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=3776AB" alt="Docker" title="Docker"
+
 
 <div align="center">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" width="400" height="250" />
