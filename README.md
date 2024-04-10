@@ -29,7 +29,7 @@ In my free time, I can write my own programming language, make a project on ardu
 
 ## My skills 📜
 
-Coding: Python (Pandas, Numpy, Matplotlib, Sklearn, catboost, xgboost, LightGBM PyTorch, Seaborn, Jupiter notebook, PySpark, Airflow, Optuna, ML flow, FastApi, DVC), SQL, HTML/CSS, Git, Docker.
+Coding: Python (Pandas, Numpy, Matplotlib, Sklearn, catboost, xgboost, LightGBM, PyTorch,  Seaborn,  PySpark, transformers, Optuna, ML flow, FastApi, DVC), SQL, HTML/CSS, Git, Docker, Airflow,
 
 Theory: Statistical, Data analysis, ML algorithms (Gradient boosting, Random forest, Regressions, Clustering, Anomaly Detection, etc.), Sequential Neural Networks, Convolution Neural Networks, NLP, GAN, Attention Mechanism, RecSys
 
@@ -45,5 +45,5 @@ Theory: Statistical, Data analysis, ML algorithms (Gradient boosting, Random for
   <strong><a href="mailto:suhowandrew@gmail.com">suhowandrew@gmail.com</a></strong> 
 </p>
 
-<p align="center">I'm currently working on Face ID + detection </p>
+<p align="center">I'm currently working in Sber AI lab </p>
 
