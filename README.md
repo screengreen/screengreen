@@ -39,11 +39,5 @@ Theory: Statistical, Data analysis, ML algorithms (Gradient boosting, Random for
 <img src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" width="400" height="250" />
 </div>
 
-</details>
-<p align="center">
-  <strong><a href="https://telegram.me/suhowandrew">Telegram</a></strong> 
-  <strong><a href="mailto:suhowandrew@gmail.com">suhowandrew@gmail.com</a></strong> 
-</p>
 
-<p align="center">I'm currently working in Sber AI lab </p>
 
