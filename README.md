@@ -6,11 +6,11 @@ Hi, I’m a Machine Learning Engineer passionate about embedded AI and real-worl
 
 Currently, I work at **Polyn Technology**, where I focus on deploying and optimizing neural networks for edge computing and industrial microchips. My work involves:
 
-Model quantization and optimization for ultra-low-power hardware
+ - Model quantization and optimization for ultra-low-power hardware
 
-Research on neural networks for friction coefficient estimation in autonomous systems
+ - Research on neural networks for friction coefficient estimation in autonomous systems
 
-Porting and adapting ML models for tiny, efficient deployment in industrial contexts
+ - Porting and adapting ML models for tiny, efficient deployment in industrial contexts
 
 Previously, I was part of the **Sber AI Lab**, where I contributed to the development and refinement of LLaMA-based language models and built robust ML pipelines in a production-scale environment.
 
