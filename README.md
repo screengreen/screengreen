@@ -15,15 +15,15 @@ Currently, I work at **Polyn Technology**, where I focus on deploying and optimi
 Previously, I was part of the **Sber AI Lab**, where I contributed to the development and refinement of LLaMA-based language models and built robust ML pipelines in a production-scale environment.
 
 🧠 **Interests & Activities**
-🔬 Research in embedded neural inference and sensor-based learning
+ - 🔬 Research in embedded neural inference and sensor-based learning
 
-🤖 LLMs, edge AI, and hybrid RAG systems
+ - 🤖 LLMs, edge AI, and hybrid RAG systems
 
-🎓 Member of the REU DS Club
+ - 🎓 Member of the REU DS Club
 
-🏕 Participated in the SMILES Summer School by Skoltech
+ - 🏕 Participated in the SMILES Summer School by Skoltech
 
-🎉 Active attendee of Data Science and AI festivals and hackathons
+ - 🎉 Active attendee of Data Science and AI festivals and hackathons
 
 
 <details>
