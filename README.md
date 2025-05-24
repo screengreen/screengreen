@@ -1,19 +1,35 @@
 
-<h1 align="center">Hi, I'm <a href="https://vk.com/suhowandrew">Andrei</a>!</h1>
+<h1 align="center">Hi, I'm <a href="https://t.me/suhowandrew">Andrei</a>!</h1>
 
+👋 **About Me**
+Hi, I’m a Machine Learning Engineer passionate about embedded AI and real-world applications of neural networks.
+
+Currently, I work at **Polyn Technology**, where I focus on deploying and optimizing neural networks for edge computing and industrial microchips. My work involves:
+
+Model quantization and optimization for ultra-low-power hardware
+
+Research on neural networks for friction coefficient estimation in autonomous systems
+
+Porting and adapting ML models for tiny, efficient deployment in industrial contexts
+
+Previously, I was part of the **Sber AI Lab**, where I contributed to the development and refinement of LLaMA-based language models and built robust ML pipelines in a production-scale environment.
+
+🧠 **Interests & Activities**
+🔬 Research in embedded neural inference and sensor-based learning
+
+🤖 LLMs, edge AI, and hybrid RAG systems
+
+🎓 Member of the REU DS Club
+
+🏕 Participated in the SMILES Summer School by Skoltech
+
+🎉 Active attendee of Data Science and AI festivals and hackathons
 
 
 <details>
 <summary>
   More stuff about me
 </summary>
-
-### What I do
-
-I am a student, I am engaged in pet projects in a club at the university. I practice machine learning, algorithms, deep learning and many other things from data science. 
-
-In my free time, I can write my own programming language, make a project on arduino, or raise a telegram bot.
-
 
 
 ### My projects 
